@@ -18,7 +18,7 @@ print(f"Senin yasin: {yas}")
 en = float(input("Duzbucaqlinin enini daxil et: "))
 uzunluq = float(input("Duzbucaqlinin uzunlugunu daxil et: "))
 sahe = en * uzunluq
-perimetr = 2(en + uzunluq)
+perimetr = 2*(en + uzunluq)
 print(f"Sahə: {sahe}")
 print(f"Perimetr: {perimetr}")
 
