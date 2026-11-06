@@ -1,7 +1,0 @@
-a = int(input("Birinci ədədi yazin: "))
-b = int(input("İkinci ədədi yazin: "))
-
-print("Cəm:", a + b)
-print("Fərq:", a - b)
-print("Hasil:", a * b)
-print("Qismət:", a / b)
